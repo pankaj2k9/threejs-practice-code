@@ -14,3 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Preview
+Preview [https://webgl-3d-text-azure-nu.vercel.app/](https://webgl-3d-text-azure-nu.vercel.app/).
